@@ -58,8 +58,9 @@
                         <rule>
                             <limits>
                                 <limit>
-                                    <counter>COMPLEXITY</counter>
+                                    <counter>BRANCH</counter>
                                     <value>COVEREDRATIO</value>
+                                    <minimum>100%</minimum>
                                 </limit>
                             </limits>
                         </rule>
