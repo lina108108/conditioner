@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology</groupId>
-    <artifactId>JavaHW8</artifactId>
+    <artifactId>HW8</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
