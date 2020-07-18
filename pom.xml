@@ -63,7 +63,7 @@
                         <rule>
                             <limits>
                                 <limit>
-                                    <counter>BRANCH</counter>
+                                    <counter>COMPLEXITY</counter>
                                     <value>COVEREDRATIO</value>
                                 </limit>
                             </limits>
