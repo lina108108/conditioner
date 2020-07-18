@@ -13,7 +13,6 @@ class ConditionerTest {
         conditioner.setCurrentTemperature(-100);
         assertEquals(0, conditioner.getCurrentTemperature());
     }
-
     @Test
     public void shouldIncreaseTemperature() {
         Conditioner conditioner = new Conditioner();
